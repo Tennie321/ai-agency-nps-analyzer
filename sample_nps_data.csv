@@ -1,0 +1,201 @@
+client_name,industry,score,date,comments,category,account_manager
+Acme Corp,SaaS,7,2026-02-04,,Passives,Rachel Green
+DataFlow Inc,SaaS,9,2026-05-12,The ROI has been clear and measurable,Promoters,Emily Rodriguez
+Junction Media,Professional Services,8,2026-03-07,,Passives,Andrew Thompson
+Oxford Learning Institute,Education,10,2026-03-26,"Outstanding results, exceeded our expectations",Promoters,David Kim
+Xenith Technologies,SaaS,5,2026-02-09,Some projects have gone over timeline,Detractors,Andrew Thompson
+DataFlow Inc,SaaS,10,2026-03-23,,Promoters,Jessica Patel
+Meridian Health Systems,Healthcare,10,2026-06-16,,Promoters,Marcus Johnson
+Vertex Construction,Real Estate,4,2026-06-12,,Detractors,Michael Torres
+Riverside Properties,Real Estate,8,2026-06-16,Pricing feels high for the value delivered,Passives,Andrew Thompson
+GlobalEd Solutions,Education,0,2026-05-19,They really understand our business,Detractors,Sarah Chen
+Twin Oaks Manufacturing,Manufacturing,10,2026-06-14,Would like more strategic guidance rather than just execution,Promoters,David Kim
+Lakeside Manufacturing,Manufacturing,9,2026-03-08,Quality has been inconsistent lately,Promoters,Michael Torres
+Harbor Legal Group,Legal,8,2026-06-24,The ROI has been clear and measurable,Passives,Andrew Thompson
+NorthStar Nonprofit,Nonprofit,5,2026-05-19,,Detractors,Michael Torres
+GlobalEd Solutions,Education,6,2026-02-15,,Detractors,Jessica Patel
+Kensington Advisors,Financial Services,8,2026-05-08,,Passives,David Kim
+Riverside Properties,Real Estate,8,2026-02-09,Their expertise in our industry really shows,Passives,Sarah Chen
+DataFlow Inc,SaaS,7,2026-07-02,Their expertise in our industry really shows,Passives,Jessica Patel
+EcoBuild Partners,Real Estate,8,2026-07-03,,Passives,Sarah Chen
+Xenith Technologies,SaaS,9,2026-01-29,,Promoters,David Kim
+FreshCart Online,E-Commerce,7,2026-02-04,Pricing feels high for the value delivered,Passives,David Kim
+Kensington Advisors,Financial Services,9,2026-07-07,,Promoters,Michael Torres
+GlobalEd Solutions,Education,10,2026-05-28,The ROI has been clear and measurable,Promoters,David Kim
+Acme Corp,SaaS,8,2026-05-21,The ROI has been clear and measurable,Passives,Marcus Johnson
+GlobalEd Solutions,Education,3,2026-05-26,Support team is excellent - always helpful,Detractors,Emily Rodriguez
+Vertex Construction,Real Estate,9,2026-03-11,,Promoters,Emily Rodriguez
+Quantum Analytics,Professional Services,3,2026-05-26,,Detractors,Michael Torres
+NorthStar Nonprofit,Nonprofit,9,2026-03-23,Quality has been inconsistent lately,Promoters,David Kim
+Acme Corp,SaaS,8,2026-04-11,"Excellent partnership, feels like an extension of our team",Passives,Marcus Johnson
+Acme Corp,SaaS,8,2026-02-12,Communication could be more proactive,Passives,Andrew Thompson
+Meridian Health Systems,Healthcare,8,2026-04-28,Pricing feels high for the value delivered,Passives,David Kim
+Lakeside Manufacturing,Manufacturing,8,2026-06-08,"The reporting needs improvement - too much data, not enough insights",Passives,Marcus Johnson
+DataFlow Inc,SaaS,8,2026-02-27,Love the proactive suggestions for improvement,Passives,David Kim
+Lakeside Manufacturing,Manufacturing,7,2026-04-18,,Passives,Marcus Johnson
+Riverside Properties,Real Estate,7,2026-05-03,Very professional and knowledgeable team,Passives,Rachel Green
+Harbor Legal Group,Legal,4,2026-06-13,The quarterly reviews are very valuable,Detractors,Michael Torres
+InnovateTech,SaaS,7,2026-05-29,,Passives,Michael Torres
+Riverside Properties,Real Estate,0,2026-05-10,"Excellent partnership, feels like an extension of our team",Detractors,Michael Torres
+Acme Corp,SaaS,1,2026-05-11,,Detractors,Marcus Johnson
+Kensington Advisors,Financial Services,7,2026-03-09,,Passives,Emily Rodriguez
+InnovateTech,SaaS,6,2026-06-21,,Detractors,Marcus Johnson
+Harbor Legal Group,Legal,9,2026-07-01,Very professional and knowledgeable team,Promoters,Marcus Johnson
+Riverside Properties,Real Estate,7,2026-06-28,Communication could be more proactive,Passives,Michael Torres
+Junction Media,Professional Services,2,2026-06-29,Support team is excellent - always helpful,Detractors,Marcus Johnson
+Pacific Retail Group,E-Commerce,6,2026-07-08,Support team is excellent - always helpful,Detractors,Rachel Green
+Kensington Advisors,Financial Services,6,2026-04-06,,Detractors,Michael Torres
+BrightPath Health,Healthcare,10,2026-03-31,,Promoters,Rachel Green
+Kensington Advisors,Financial Services,1,2026-07-07,,Detractors,David Kim
+Meridian Health Systems,Healthcare,8,2026-07-07,"Great team, very responsive to our needs",Passives,Rachel Green
+Twin Oaks Manufacturing,Manufacturing,5,2026-01-27,Their expertise in our industry really shows,Detractors,Marcus Johnson
+Acme Corp,SaaS,9,2026-07-10,Would like more strategic guidance rather than just execution,Promoters,David Kim
+Lakeside Manufacturing,Manufacturing,9,2026-05-23,"Great team, very responsive to our needs",Promoters,Andrew Thompson
+DataFlow Inc,SaaS,6,2026-04-04,,Detractors,Michael Torres
+NorthStar Nonprofit,Nonprofit,10,2026-06-18,"Excellent partnership, feels like an extension of our team",Promoters,Sarah Chen
+WestBridge Nonprofit,Nonprofit,10,2026-02-03,They helped us achieve 40% efficiency gain,Promoters,Emily Rodriguez
+DataFlow Inc,SaaS,10,2026-01-23,,Promoters,Emily Rodriguez
+BrightPath Health,Healthcare,3,2026-03-15,The quarterly reviews are very valuable,Detractors,Marcus Johnson
+Kensington Advisors,Financial Services,9,2026-06-04,,Promoters,Jessica Patel
+Oxford Learning Institute,Education,10,2026-06-21,,Promoters,Sarah Chen
+Xenith Technologies,SaaS,7,2026-06-09,,Passives,Jessica Patel
+NorthStar Nonprofit,Nonprofit,8,2026-02-17,"Great team, very responsive to our needs",Passives,Rachel Green
+Summit Legal Partners,Legal,6,2026-07-12,"Great team, very responsive to our needs",Detractors,David Kim
+Riverside Properties,Real Estate,7,2026-07-14,,Passives,Andrew Thompson
+Acme Corp,SaaS,7,2026-06-29,Would appreciate more frequent check-ins,Passives,Marcus Johnson
+Oxford Learning Institute,Education,4,2026-02-17,,Detractors,David Kim
+Pacific Retail Group,E-Commerce,8,2026-05-15,,Passives,Andrew Thompson
+Summit Legal Partners,Legal,5,2026-01-30,Onboarding was smooth and well-organized,Detractors,Emily Rodriguez
+Urban Commerce Co,E-Commerce,8,2026-06-08,,Passives,Sarah Chen
+Kensington Advisors,Financial Services,5,2026-06-13,They helped us achieve 40% efficiency gain,Detractors,Rachel Green
+Lakeside Manufacturing,Manufacturing,9,2026-06-20,Would like more strategic guidance rather than just execution,Promoters,David Kim
+Junction Media,Professional Services,9,2026-05-24,Onboarding was smooth and well-organized,Promoters,Jessica Patel
+WestBridge Nonprofit,Nonprofit,8,2026-06-07,,Passives,Marcus Johnson
+WestBridge Nonprofit,Nonprofit,9,2026-01-23,Slow response times when we need help urgently,Promoters,Sarah Chen
+Oxford Learning Institute,Education,9,2026-06-15,Would like more strategic guidance rather than just execution,Promoters,Rachel Green
+EcoBuild Partners,Real Estate,6,2026-03-03,Documentation could be better organized,Detractors,Andrew Thompson
+Junction Media,Professional Services,4,2026-07-12,Sometimes feel like just another account,Detractors,Sarah Chen
+Summit Legal Partners,Legal,7,2026-04-29,"Outstanding results, exceeded our expectations",Passives,Andrew Thompson
+Vertex Construction,Real Estate,8,2026-02-08,The ROI has been clear and measurable,Passives,Marcus Johnson
+Riverside Properties,Real Estate,8,2026-04-21,Communication could be more proactive,Passives,Michael Torres
+Kensington Advisors,Financial Services,7,2026-02-12,They helped us achieve 40% efficiency gain,Passives,Jessica Patel
+Twin Oaks Manufacturing,Manufacturing,9,2026-05-03,The ROI has been clear and measurable,Promoters,Jessica Patel
+Lakeside Manufacturing,Manufacturing,8,2026-04-14,"Excellent partnership, feels like an extension of our team",Passives,Emily Rodriguez
+Pacific Retail Group,E-Commerce,4,2026-06-20,Pricing feels high for the value delivered,Detractors,Rachel Green
+NorthStar Nonprofit,Nonprofit,9,2026-04-20,Need more innovation in our solutions,Promoters,David Kim
+Pacific Retail Group,E-Commerce,8,2026-05-16,"The reporting needs improvement - too much data, not enough insights",Passives,Marcus Johnson
+WestBridge Nonprofit,Nonprofit,6,2026-03-29,Sometimes feel like just another account,Detractors,Rachel Green
+Riverside Properties,Real Estate,5,2026-07-09,"Outstanding results, exceeded our expectations",Detractors,Jessica Patel
+Riverside Properties,Real Estate,7,2026-03-17,,Passives,Rachel Green
+Vertex Construction,Real Estate,5,2026-02-20,Their expertise in our industry really shows,Detractors,Sarah Chen
+Summit Legal Partners,Legal,9,2026-06-02,"Outstanding results, exceeded our expectations",Promoters,Andrew Thompson
+Junction Media,Professional Services,8,2026-07-10,,Passives,Sarah Chen
+WestBridge Nonprofit,Nonprofit,6,2026-06-27,They helped us achieve 40% efficiency gain,Detractors,Sarah Chen
+Riverside Properties,Real Estate,6,2026-03-14,Onboarding was smooth and well-organized,Detractors,Emily Rodriguez
+Acme Corp,SaaS,7,2026-04-21,,Passives,Rachel Green
+Meridian Health Systems,Healthcare,10,2026-01-26,,Promoters,Michael Torres
+Urban Commerce Co,E-Commerce,8,2026-05-31,Onboarding was smooth and well-organized,Passives,Jessica Patel
+EcoBuild Partners,Real Estate,7,2026-05-12,"Overall great experience, minor room for improvement",Passives,Sarah Chen
+Meridian Health Systems,Healthcare,9,2026-03-14,,Promoters,Sarah Chen
+Quantum Analytics,Professional Services,10,2026-05-31,"Great team, very responsive to our needs",Promoters,Rachel Green
+Urban Commerce Co,E-Commerce,10,2026-06-17,,Promoters,Michael Torres
+Summit Legal Partners,Legal,8,2026-05-24,Would like more strategic guidance rather than just execution,Passives,Rachel Green
+DataFlow Inc,SaaS,9,2026-07-04,,Promoters,Marcus Johnson
+Junction Media,Professional Services,5,2026-01-25,Slow response times when we need help urgently,Detractors,Marcus Johnson
+EcoBuild Partners,Real Estate,8,2026-01-31,They helped us achieve 40% efficiency gain,Passives,Rachel Green
+Oxford Learning Institute,Education,5,2026-05-23,,Detractors,Michael Torres
+Urban Commerce Co,E-Commerce,6,2026-04-16,"Overall great experience, minor room for improvement",Detractors,Emily Rodriguez
+GlobalEd Solutions,Education,8,2026-06-14,Would appreciate more frequent check-ins,Passives,Sarah Chen
+Twin Oaks Manufacturing,Manufacturing,0,2026-02-05,,Detractors,Michael Torres
+Twin Oaks Manufacturing,Manufacturing,9,2026-04-16,Their expertise in our industry really shows,Promoters,David Kim
+Urban Commerce Co,E-Commerce,6,2026-05-27,,Detractors,Rachel Green
+Acme Corp,SaaS,9,2026-06-15,,Promoters,Sarah Chen
+Summit Legal Partners,Legal,6,2026-07-01,,Detractors,Emily Rodriguez
+Xenith Technologies,SaaS,9,2026-05-10,Would appreciate more frequent check-ins,Promoters,Rachel Green
+Vertex Construction,Real Estate,9,2026-02-11,Pricing feels high for the value delivered,Promoters,Sarah Chen
+Oxford Learning Institute,Education,4,2026-03-15,,Detractors,Jessica Patel
+InnovateTech,SaaS,8,2026-02-08,"Outstanding results, exceeded our expectations",Passives,Sarah Chen
+WestBridge Nonprofit,Nonprofit,10,2026-07-01,Love the proactive suggestions for improvement,Promoters,David Kim
+Twin Oaks Manufacturing,Manufacturing,8,2026-06-23,Support team is excellent - always helpful,Passives,Sarah Chen
+BrightPath Health,Healthcare,10,2026-06-27,Love the proactive suggestions for improvement,Promoters,Emily Rodriguez
+Summit Legal Partners,Legal,10,2026-02-01,Slow response times when we need help urgently,Promoters,Andrew Thompson
+Twin Oaks Manufacturing,Manufacturing,10,2026-06-05,,Promoters,Andrew Thompson
+NorthStar Nonprofit,Nonprofit,7,2026-06-25,,Passives,David Kim
+Junction Media,Professional Services,9,2026-06-21,,Promoters,Marcus Johnson
+Quantum Analytics,Professional Services,4,2026-07-07,The ROI has been clear and measurable,Detractors,Andrew Thompson
+Acme Corp,SaaS,8,2026-06-19,Would like more strategic guidance rather than just execution,Passives,David Kim
+BrightPath Health,Healthcare,10,2026-05-13,They really understand our business,Promoters,Emily Rodriguez
+BrightPath Health,Healthcare,8,2026-01-28,,Passives,Jessica Patel
+Summit Legal Partners,Legal,8,2026-03-28,"Overall great experience, minor room for improvement",Passives,Andrew Thompson
+NorthStar Nonprofit,Nonprofit,9,2026-01-28,,Promoters,Andrew Thompson
+NorthStar Nonprofit,Nonprofit,7,2026-03-24,,Passives,Rachel Green
+Junction Media,Professional Services,6,2026-02-27,,Detractors,Michael Torres
+Urban Commerce Co,E-Commerce,2,2026-06-01,,Detractors,Andrew Thompson
+Lakeside Manufacturing,Manufacturing,7,2026-07-08,Documentation could be better organized,Passives,Michael Torres
+DataFlow Inc,SaaS,8,2026-06-11,Slow response times when we need help urgently,Passives,David Kim
+Pacific Retail Group,E-Commerce,6,2026-04-20,,Detractors,Rachel Green
+Acme Corp,SaaS,10,2026-05-24,"Outstanding results, exceeded our expectations",Promoters,Rachel Green
+DataFlow Inc,SaaS,10,2026-04-27,,Promoters,David Kim
+InnovateTech,SaaS,7,2026-06-04,,Passives,Sarah Chen
+DataFlow Inc,SaaS,6,2026-04-16,Communication could be more proactive,Detractors,David Kim
+Oxford Learning Institute,Education,7,2026-06-23,The ROI has been clear and measurable,Passives,Rachel Green
+Summit Legal Partners,Legal,9,2026-02-13,,Promoters,David Kim
+DataFlow Inc,SaaS,9,2026-02-25,Love the proactive suggestions for improvement,Promoters,Rachel Green
+Vertex Construction,Real Estate,4,2026-05-15,Love the proactive suggestions for improvement,Detractors,David Kim
+Urban Commerce Co,E-Commerce,4,2026-05-25,Slow response times when we need help urgently,Detractors,Rachel Green
+Acme Corp,SaaS,6,2026-06-01,,Detractors,Andrew Thompson
+Harbor Legal Group,Legal,7,2026-06-08,"Great team, very responsive to our needs",Passives,Michael Torres
+NorthStar Nonprofit,Nonprofit,10,2026-07-04,They really understand our business,Promoters,Sarah Chen
+GlobalEd Solutions,Education,6,2026-01-18,,Detractors,Marcus Johnson
+Lakeside Manufacturing,Manufacturing,6,2026-03-13,,Detractors,Emily Rodriguez
+GlobalEd Solutions,Education,8,2026-05-01,,Passives,Michael Torres
+Acme Corp,SaaS,6,2026-04-10,,Detractors,Andrew Thompson
+Riverside Properties,Real Estate,6,2026-06-19,Need more innovation in our solutions,Detractors,Rachel Green
+Oxford Learning Institute,Education,8,2026-05-17,"Great team, very responsive to our needs",Passives,Rachel Green
+Urban Commerce Co,E-Commerce,9,2026-06-04,,Promoters,David Kim
+Acme Corp,SaaS,10,2026-03-28,"The reporting needs improvement - too much data, not enough insights",Promoters,Marcus Johnson
+Summit Legal Partners,Legal,6,2026-04-05,"Overall great experience, minor room for improvement",Detractors,Rachel Green
+Twin Oaks Manufacturing,Manufacturing,8,2026-02-28,Pricing feels high for the value delivered,Passives,Marcus Johnson
+Harbor Legal Group,Legal,6,2026-06-14,They really understand our business,Detractors,Marcus Johnson
+GlobalEd Solutions,Education,10,2026-02-13,"Great team, very responsive to our needs",Promoters,Michael Torres
+GlobalEd Solutions,Education,9,2026-05-21,Would appreciate more frequent check-ins,Promoters,Marcus Johnson
+InnovateTech,SaaS,10,2026-03-03,,Promoters,Sarah Chen
+Oxford Learning Institute,Education,5,2026-04-23,Support team is excellent - always helpful,Detractors,Emily Rodriguez
+Urban Commerce Co,E-Commerce,8,2026-03-31,Would appreciate more frequent check-ins,Passives,David Kim
+Acme Corp,SaaS,5,2026-03-27,,Detractors,Marcus Johnson
+Oxford Learning Institute,Education,9,2026-04-13,,Promoters,Marcus Johnson
+Capital Ventures,Financial Services,6,2026-01-31,Onboarding was smooth and well-organized,Detractors,Sarah Chen
+Kensington Advisors,Financial Services,3,2026-02-17,Need more innovation in our solutions,Detractors,Andrew Thompson
+GlobalEd Solutions,Education,2,2026-02-16,,Detractors,Sarah Chen
+Kensington Advisors,Financial Services,8,2026-06-17,Some projects have gone over timeline,Passives,Michael Torres
+Oxford Learning Institute,Education,9,2026-06-08,"Excellent partnership, feels like an extension of our team",Promoters,Rachel Green
+Harbor Legal Group,Legal,9,2026-06-24,Very professional and knowledgeable team,Promoters,David Kim
+Acme Corp,SaaS,10,2026-01-26,Their expertise in our industry really shows,Promoters,Andrew Thompson
+EcoBuild Partners,Real Estate,7,2026-03-14,Some projects have gone over timeline,Passives,Sarah Chen
+Harbor Legal Group,Legal,6,2026-05-29,Would appreciate more frequent check-ins,Detractors,Andrew Thompson
+Capital Ventures,Financial Services,7,2026-05-18,,Passives,Jessica Patel
+NorthStar Nonprofit,Nonprofit,7,2026-06-06,,Passives,Marcus Johnson
+Capital Ventures,Financial Services,7,2026-03-14,"Outstanding results, exceeded our expectations",Passives,Sarah Chen
+Lakeside Manufacturing,Manufacturing,7,2026-07-07,Sometimes feel like just another account,Passives,Emily Rodriguez
+Riverside Properties,Real Estate,8,2026-05-17,"Outstanding results, exceeded our expectations",Passives,Emily Rodriguez
+Quantum Analytics,Professional Services,7,2026-06-30,,Passives,Emily Rodriguez
+NorthStar Nonprofit,Nonprofit,7,2026-07-03,Would appreciate more frequent check-ins,Passives,Jessica Patel
+FreshCart Online,E-Commerce,7,2026-01-28,,Passives,Rachel Green
+GlobalEd Solutions,Education,8,2026-04-24,,Passives,Michael Torres
+Pacific Retail Group,E-Commerce,10,2026-05-02,,Promoters,Emily Rodriguez
+Pacific Retail Group,E-Commerce,7,2026-01-16,They really understand our business,Passives,Michael Torres
+Harbor Legal Group,Legal,8,2026-07-08,,Passives,Andrew Thompson
+BrightPath Health,Healthcare,8,2026-03-15,,Passives,Andrew Thompson
+Oxford Learning Institute,Education,8,2026-05-03,,Passives,Sarah Chen
+DataFlow Inc,SaaS,9,2026-03-26,Some projects have gone over timeline,Promoters,Rachel Green
+Quantum Analytics,Professional Services,7,2026-03-14,"Outstanding results, exceeded our expectations",Passives,David Kim
+Xenith Technologies,SaaS,4,2026-05-15,The ROI has been clear and measurable,Detractors,Jessica Patel
+DataFlow Inc,SaaS,9,2026-01-24,Quality has been inconsistent lately,Promoters,Andrew Thompson
+Oxford Learning Institute,Education,10,2026-01-25,They helped us achieve 40% efficiency gain,Promoters,Jessica Patel
+Quantum Analytics,Professional Services,6,2026-02-18,The quarterly reviews are very valuable,Detractors,Jessica Patel
+Capital Ventures,Financial Services,6,2026-01-23,,Detractors,Sarah Chen
+Riverside Properties,Real Estate,7,2026-02-20,Documentation could be better organized,Passives,David Kim
+Harbor Legal Group,Legal,10,2026-03-10,,Promoters,Marcus Johnson
+DataFlow Inc,SaaS,3,2026-04-03,"The reporting needs improvement - too much data, not enough insights",Detractors,Andrew Thompson
+Acme Corp,SaaS,8,2026-04-10,,Passives,Jessica Patel
+NorthStar Nonprofit,Nonprofit,8,2026-04-23,,Passives,Emily Rodriguez
