@@ -30,7 +30,7 @@
   "sample_data": "sample_nps_data.csv",
   "sample_report_html": "nps_analysis_report.html",
   "sample_report_md": "nps_analysis_report.md",
-  "landing_page": "",
-  "github_pages_url": "",
-  "deployed": false
+  "landing_page": "index.html",
+  "github_pages_url": "https://tennie321.github.io/ai-agency-nps-analyzer/",
+  "deployed": true
 }
